@@ -112,7 +112,7 @@ z-index: 1;
 
 /*Hero Section*/
 .hero-section{
-    background-image: url('/images/background/hero-background.webp');
+    background-image: url('images/background/hero-background.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: 65%;
@@ -406,7 +406,7 @@ div.appoint-btn:hover{
 }
 /*Our Services*/
 .our-services{
-    background-image: url(/images/background/service-background.webp);
+    background-image: url(images/background/service-background.webp);
     background-size: cover;
 }
 
@@ -555,7 +555,7 @@ div.appoint-btn:hover{
 /*Testimonials*/
 
 .testimonials{
-    background-image: url(/images/background/testimonials-background.webp);
+    background-image: url(images/background/testimonials-background.webp);
     background-size: cover;
 }
 .testimonial-wrapper{
